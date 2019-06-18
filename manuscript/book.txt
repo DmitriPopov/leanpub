@@ -1,0 +1,111 @@
+About
+Benefits
+Tutorial
+Support
+Order
+How to
+Start a new project
+Import existing documentation
+Capture screenshots
+REcapture screenshots
+Add annotations to screenshots
+Quickly update screenshots when UI changes
+Create stepbystep guides
+Create CHM help file
+Create PDF and printed manuals
+Create WebHelp
+Create QtHelp
+Create JavaHelp and OracleHelp
+Create EPUB and MOBI ebooks
+Embed Video from YouTube Vimeo and etc
+Change order and hierarchy of topics quickly
+Create a FAQ
+Create a Quiz
+Getting Started
+UI Overview
+Project Structure
+Output Formats
+Project
+Variables
+Storage Modes
+Topics and Content
+Manage Topics
+Classic Toolbar WYSIWYG Editor
+Tabbed Toolbar Editor
+Styles
+Text and Paragraph Styles
+Table Styles
+Shape Styles
+Guide Styles
+Manage Glossary
+Images
+Managing Images
+Image Editor
+Using Images
+Cloned Images
+Paste from Clipboard
+How to Work With Video
+Stepbystep Guides
+How to create a stepbystep guide
+How to use guides in topics
+Text Snippets
+How to use text snippets
+Code Snippets
+How to use code snippets
+Code snippets in help files
+Templates
+HTMLbased Templates
+PDFRTFPrint Templates
+Tools
+Search and Replace
+Context IDs
+Screenshots
+Global Spellcheck
+Image Tools
+Check Links
+REImport
+WordPress Theme Builder
+GIF Screen Recorder
+Reports
+ToDo List
+Formats
+CHM
+PDFRTF
+Classic WebHelp
+Analytics and Social Integration
+Adapt to your website
+How to Change Style of the Left Pane
+WebHelp 2
+Printed Manuals
+QtHelp
+JavaHelp
+EPUB
+MOBI
+OracleHelp
+HelpGUI
+MajorMindHelp
+Wordpress CMS
+Knowledge Base
+Understanding Profiles
+GitHubflavored Markdown
+SimpleDocServer
+LiteHelp
+Advanced Topics
+Conditional compilation
+Command line tool
+Organizing text reviews
+Batch Compile
+MajorMindHelpViewer
+Localizing help files
+Multiple languages
+Language strings
+XML ImportExport
+Quizzes
+Quizzes Editor Overview
+How to Embed a Quiz
+Sample Quiz
+FAQ Lists
+FAQ Editor Overview
+How to Embed a FAQ
+Sample FAQ
+Quiz Answers
