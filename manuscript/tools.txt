@@ -3,7 +3,7 @@
 Helpinator has several built-in accompanying tools to make your help authoring process less frustrating. All of them are under "Tools" node of the project tree view.
 
 
-![tools.png](images/tools.png "tools.png")
+![tools.png](images/tools.png)
 
 Tools
 

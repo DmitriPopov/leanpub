@@ -13,13 +13,13 @@ Helpinator comes with several predefined templates that you can use in your proj
 Templates are stored inside the project, so you need to add them first to allow Helpinator to use them.
 
 
-![projecttemplates.png](images/projecttemplates.png "projecttemplates.png")
+![projecttemplates.png](images/projecttemplates.png)
 
 Project templates
 
 
 
-![templatenodes.png](images/templatenodes.png "templatenodes.png")
+![templatenodes.png](images/templatenodes.png)
 
 Template nodes in the project tree view
 

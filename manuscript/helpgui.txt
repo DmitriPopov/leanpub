@@ -20,4 +20,4 @@ To compile HelpGUI:
 Compiled HelpGUI help file looks like this:
 
 
-![helpgui.png](images/helpgui.png "helpgui.png")
+![helpgui.png](images/helpgui.png)

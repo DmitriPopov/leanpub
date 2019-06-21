@@ -1,2 +1,43 @@
 ## Create QtHelp
 
+**Download and install Qt SDK**
+
+![](createqtdownload.png "")
+
+Download and install QtHelp SDK if you haven't already done so.
+
+**Set path to qthelpgenerator.exe**
+
+![](enoptionsqtcompiler.png "")
+
+Select Main Menu->Tools->Options and enter "Path to QtSDK BIN folder" where qthelpgenerator.exe is located.
+
+**Select "HTML-based templates"**
+
+![](en-createqt.png "")
+
+Select "HTML-based templates" and check there's a template for QtHelp. Helpinator's default.html is QtHelp-compatible.
+
+**Click "Add template"**
+
+![](en-createqt1.png "")
+
+Click "Add template" if you are not satisfied with default template.
+
+**Check for QtHelp templates**
+
+![](en-createqt2.png "")
+
+Select templates that have "For: QTHELP" label.
+
+**Set QtHelp template**
+
+![](en-createqt3.png "")
+
+Select root node in the project tree view and browse to "Templates" tab, then select template for QtHelp from the drop-down list or leave default.html.
+
+**Compile QtHelp**
+
+![](en-createqt4.png "")
+
+Now you can click "Compile QtHelp" on the main tool bar to compile QtHelp help file.

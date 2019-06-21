@@ -3,7 +3,7 @@
 Topic manager resides under "Topics" node of the project tree view.
 
 
-![managetopics.png](images/managetopics.png "managetopics.png")
+![managetopics.png](images/managetopics.png)
 
 Manage Topics
 
@@ -15,7 +15,7 @@ Manage Topics
 When you click "Add several topics" separate dialog box appears:
 
 
-![addsevtopics.png](images/addsevtopics.png "addsevtopics.png")
+![addsevtopics.png](images/addsevtopics.png)
 
 Add several topics
 

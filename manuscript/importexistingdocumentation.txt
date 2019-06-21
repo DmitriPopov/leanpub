@@ -1,5 +1,45 @@
 ## Import existing documentation
 
+**Run "Convert to Helpinator 3 Project"**
+
+![](import.png "")
+
+
+**Select source type**
+
+![](import1.png "")
+
+First of all, select what you want to import.
+
+**Select source files**
+
+![](import2.png "")
+
+Select source files (in case of old Helpinator project or CHM) OR source folder (in case of HHP and DOC/TXT/HTML files import).
+
+**Select destination project storage mode**
+
+![](import3.png "")
+
+Select destination project storage mode. Single file mode is more compact while "Multiple files" mode is good for version control systems - you can check in only those files that were altered, not entire project.
+
+**Enter destination path**
+
+![](import4.png "")
+
+Select path to save new project with imported data to.
+
+**Select default project language**
+
+![](import5.png "")
+
+Select default destination project file. You can add more languages later.
+
+**Click "Run"**
+
+![](import6.png "")
+
+Clcick "Run" and wait for the process to finish. Now you can open destination file in Helpinator.
 
 
 

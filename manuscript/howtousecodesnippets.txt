@@ -1,2 +1,19 @@
 ## How to use code snippets
 
+**Click toolbar button**
+
+![](usesnippet1.png "")
+
+Locate "Insert code snippet" button on the topic editor toolbar and click it.
+
+**Select snippet**
+
+![](usesnippet2.png "")
+
+Drop-down list of available code snippets appears. Select code snippet to insert.
+
+**Placeholder appears**
+
+![](usesnippet3.png "")
+
+Code snippet placeholder appears in the position of caret.

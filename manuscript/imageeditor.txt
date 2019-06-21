@@ -6,7 +6,7 @@ Helpinator has built-in image editor that allows you to add arrows, boxes with t
 First you need to activate shape editor. It is disabled by default and all images go "as is".
 
 
-![editimage-shape.png](images/editimage-shape.png "editimage-shape.png")
+![editimage-shape.png](images/editimage-shape.png)
 
 Activate shape editor
 
@@ -15,7 +15,7 @@ Activate shape editor
 Now editor is activated and you can choose shape style and add shapes to the screenshot.
 
 
-![editimage.png](images/editimage.png "editimage.png")
+![editimage.png](images/editimage.png)
 
 Image editor
 

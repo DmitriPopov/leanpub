@@ -3,7 +3,7 @@
 Table styles allow you to keep the same table formatting in all topics.
 
 
-![styles2.png](images/styles2.png "styles2.png")
+![styles2.png](images/styles2.png)
 
 Table Styles
 

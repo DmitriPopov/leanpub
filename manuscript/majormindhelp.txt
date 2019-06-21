@@ -24,4 +24,4 @@ Helpinator compiles MajorMindHelp directly, without any other tools.
 Compiled Help looks like this:
 
 
-![majormindhelp.png](images/majormindhelp.png "majormindhelp.png")
+![majormindhelp.png](images/majormindhelp.png)

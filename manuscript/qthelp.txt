@@ -29,7 +29,7 @@ To compile QtHelp you have to:
 Note that to use Step-by-step Guides in your help files you will need QtSDK 4.8 and higher.
 
 
-![enoptionsqtcompiler.png](images/enoptionsqtcompiler.png "enoptionsqtcompiler.png")
+![enoptionsqtcompiler.png](images/enoptionsqtcompiler.png)
 
 Options - Compilers - Qt
 
@@ -39,21 +39,21 @@ Options - Compilers - Qt
 Resulting documentation looks like this:
 
 
-![qthelp.png](images/qthelp.png "qthelp.png")
+![qthelp.png](images/qthelp.png)
 
 QtHelp - Contents
 
 
 ****
 
-![qthelp1.png](images/qthelp1.png "qthelp1.png")
+![qthelp1.png](images/qthelp1.png)
 
 QtHelp - Index
 
 
 ****
 
-![qthelp2.png](images/qthelp2.png "qthelp2.png")
+![qthelp2.png](images/qthelp2.png)
 
 QtHelp - Search
 

@@ -39,7 +39,7 @@ CHM is primarily Windows-based help file format, though there are some viewer im
 PDF, RTF and printed manuals rely on RTF templates. PDF and Printed manuals are almost identical, except that Printed manuals are sent directly to printer and thus avoid image quality loss during compression. But PDF files have useful "Outline" with document structure and direct links to topics. RTF files are a limited version of PDF output, they do not have headers and footers.
 
 
-![formats.png](images/formats.png "formats.png")
+![formats.png](images/formats.png)
 
 Formats
 

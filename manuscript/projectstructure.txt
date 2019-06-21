@@ -3,7 +3,7 @@
 The picture below shows Helpinator project structure.
 
 
-![projectstruct.png](images/projectstruct.png "projectstruct.png")
+![projectstruct.png](images/projectstruct.png)
 
 Project Structure
 

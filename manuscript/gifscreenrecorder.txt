@@ -9,7 +9,7 @@ Later you can use it in topics and step-by-step guides.
 However, remember that animated files break single-sourcing, PDF and printed manuals allow only static images.
 
 
-![gifrec.png](images/gifrec.png "gifrec.png")
+![gifrec.png](images/gifrec.png)
 
 GIF Screen Recorder
 

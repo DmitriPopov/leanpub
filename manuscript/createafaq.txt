@@ -1,2 +1,43 @@
 ## Create a FAQ
 
+**Select "FAQ" node**
+
+![](createfaq1.png "")
+
+Select "FAQs" node in the project tree view.
+
+**Add a new FAQ**
+
+![](createfaq2.png "")
+
+Click "+" sign to add a new FAQ.
+
+**Enter FAQ name**
+
+![](createfaq3.png "")
+
+Enter short FAQ name to reference it.
+
+**Add a FAQ section**
+
+![](createfaq4.png "")
+
+Click "+" sign under "Sections" group to add a new FAQ section.
+
+**Add a question**
+
+![](createfaq5.png "")
+
+Click "+" sign under "Questions" group to add a new question.
+
+**Edit question**
+
+![](createfaq8.png "")
+
+Edit question text and answer. Question text is plain text, answer is rich text like any topic.
+
+**Embed**
+
+![](createfaq10.png "")
+
+You can embed your newly created FAQ into a topic with FAQ pseudo tag. It will be replaces with an actual FAQ at compile time.

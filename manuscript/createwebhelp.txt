@@ -1,2 +1,28 @@
 ## Create WebHelp
 
+**Select "HTML-based templates"**
+
+![](en-createwebhelp.png "")
+
+
+**Click "Add Template"**
+
+![](en-createwebhelp1.png "")
+
+
+**Check for WebHelp templates**
+
+![](en-createwebhelp2.png "")
+
+
+**Set WebHelp template**
+
+![](en-createwebhelp3.png "")
+
+Select root node in the project tree view, then "Templates" tab and set WebHelp template (or leave default.html there).
+
+**Click "Create WebHelp"**
+
+![](en-createwebhelp4.png "")
+
+Click "Create WebHelp" button on the main tool bar.

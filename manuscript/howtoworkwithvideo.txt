@@ -6,7 +6,7 @@ From version 3.11 Helpinator allows you to embed video into topics. You can embe
 To start working with videos select "Video" node in the project tree view.
 
 
-![embedvideo1.png](images/embedvideo1.png "embedvideo1.png")
+![embedvideo1.png](images/embedvideo1.png)
 
 "Video" tree node
 
@@ -15,7 +15,7 @@ To start working with videos select "Video" node in the project tree view.
 If there's no "Video" node click "Show Videos" on the tree view control bar on the left.
 
 
-![en-workwithvideo.png](images/en-workwithvideo.png "en-workwithvideo.png")
+![en-workwithvideo.png](images/en-workwithvideo.png)
 
 Tree filter for Video
 
@@ -24,7 +24,7 @@ Tree filter for Video
 Video manager appears:
 
 
-![en-workwithvideo1.png](images/en-workwithvideo1.png "en-workwithvideo1.png")
+![en-workwithvideo1.png](images/en-workwithvideo1.png)
 
 The Video Manager
 
@@ -33,7 +33,7 @@ The Video Manager
 When you click "+" sign "Add from files" dialog appears. Click "Add files" to select one or more video files to add then click "OK".
 
 
-![en-workwithvideo2.png](images/en-workwithvideo2.png "en-workwithvideo2.png")
+![en-workwithvideo2.png](images/en-workwithvideo2.png)
 
 Add a video from file
 
@@ -42,7 +42,7 @@ Add a video from file
 When you click on YouTube sign "Add from URL" dialog appears:
 
 
-![en-workwithvideo3.png](images/en-workwithvideo3.png "en-workwithvideo3.png")
+![en-workwithvideo3.png](images/en-workwithvideo3.png)
 
 Add video from URL
 
@@ -51,7 +51,7 @@ Add video from URL
 To insert video placeholder into a topic click on video icon on the topic editor toolbar.
 
 
-![embedvideo3.png](images/embedvideo3.png "embedvideo3.png")
+![embedvideo3.png](images/embedvideo3.png)
 
 Insert Video into a topic
 
@@ -60,14 +60,14 @@ Insert Video into a topic
 Helpinator inserts video placeholder in the position of caret. Now on compile time this placeholder will be replaced with your video.
 
 
-![embedvideo4.png](images/embedvideo4.png "embedvideo4.png")
+![embedvideo4.png](images/embedvideo4.png)
 
 
 
 Some formats like PDF or printed output do not support video. You can instruct Helpinator to replace video with a library image or a step-by-step guide via image properties.
 
 
-![embedvideo4.png](images/embedvideo4.png "embedvideo4.png")
+![embedvideo4.png](images/embedvideo4.png)
 
 Video in a topic editor
 

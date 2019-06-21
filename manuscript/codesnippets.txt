@@ -6,7 +6,7 @@ Code snippets are portions of code or markup with syntax highlight. Helpinator a
 The picture below shows how to use code snippets manager.
 
 
-![codesnippetmanager.png](images/codesnippetmanager.png "codesnippetmanager.png")
+![codesnippetmanager.png](images/codesnippetmanager.png)
 
 Code Snippet Manager
 
@@ -16,7 +16,7 @@ Code Snippet Manager
 Code snippet editor allows you to view and edit code snippet with syntax highlighting. You can also change highlighting for the snippet.
 
 
-![codesnippet.png](images/codesnippet.png "codesnippet.png")
+![codesnippet.png](images/codesnippet.png)
 
 Code Snippet
 

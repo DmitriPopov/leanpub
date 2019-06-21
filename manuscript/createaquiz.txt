@@ -1,2 +1,37 @@
 ## Create a Quiz
 
+**Select "Quizzes" node**
+
+![](createquiz1.png "")
+
+Select "Quizzes" node in the project tree view.
+
+**Add a new quiz**
+
+![](createquiz2.png "")
+
+Click "+" button to add a new Quiz
+
+**Open editor**
+
+![](createquiz3.png "")
+
+Double click the newly create quiz to open quiz editor
+
+**Add a question**
+
+![](createquiz4.png "")
+
+Click "+" icon to add question, write question text in "Question" tab.
+
+**Set up answers**
+
+![](createquiz5.png "")
+
+Select answers numbering, multiple correct answers and how options will be generated.
+
+**Embed into a topic**
+
+![](createquiz6.png "")
+
+Embed a quiz into a topic with "QUIZ" tag.

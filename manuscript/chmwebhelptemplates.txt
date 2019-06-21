@@ -56,13 +56,13 @@ Lists related topics based on keywords match.
 You can also use project variables inside templates.
 
 
-![htmltemplates.png](images/htmltemplates.png "htmltemplates.png")
+![htmltemplates.png](images/htmltemplates.png)
 
 HTML templates
 
 
 
-![htmltemplates1.png](images/htmltemplates1.png "htmltemplates1.png")
+![htmltemplates1.png](images/htmltemplates1.png)
 
 Inside an HTML template
 
@@ -74,7 +74,7 @@ Inside an HTML template
 You can also adapt WebHelp appearance to the style of your website using WebHelp header and footer. This fields are not required, if empty WebHelp will fill entire browser page. When filled, header and footer will appear in separate frames.
 
 
-![htmltemplates2.png](images/htmltemplates2.png "htmltemplates2.png")
+![htmltemplates2.png](images/htmltemplates2.png)
 
 WebHelp Addons
 

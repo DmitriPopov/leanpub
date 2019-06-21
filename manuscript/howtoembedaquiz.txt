@@ -6,14 +6,14 @@ You need to use QUIZ pseudo tag to embed a quiz into a topic and QUIZANSWERS tag
 Optionally you can use editor drop down list to select a QUIZ and insert the tag in the place of caret.
 
 
-![embedquiz.png](images/embedquiz.png "embedquiz.png")
+![embedquiz.png](images/embedquiz.png)
 
 Insert a quiz into a topic
 
 
 
 
-![ebedquizanswers.png](images/ebedquizanswers.png "ebedquizanswers.png")
+![ebedquizanswers.png](images/ebedquizanswers.png)
 
 Embed Quiz Answers into a topic
 

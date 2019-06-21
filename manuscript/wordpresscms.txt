@@ -12,7 +12,7 @@ Example Wordpress site with Helpinator's own documentation:
 To publish your help file to Wordpress you need to set up your account information and select publishing options.
 
 
-![wordpress.png](images/wordpress.png "wordpress.png")
+![wordpress.png](images/wordpress.png)
 
 Publish to WordPress
 

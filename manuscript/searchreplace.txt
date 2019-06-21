@@ -3,7 +3,7 @@
 "Search and Replace" tool allows you to get a list of topics where certain phrase appears and optionally replace those occurrences.
 
 
-![searchreplace.png](images/searchreplace.png "searchreplace.png")
+![searchreplace.png](images/searchreplace.png)
 
 Search and Replace
 

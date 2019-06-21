@@ -37,11 +37,11 @@ This text is for "Warning" box.
 
 
 
-![usetextsnippet.png](images/usetextsnippet.png "usetextsnippet.png")
+![usetextsnippet.png](images/usetextsnippet.png)
 
 
 
 How it will look like in CHM help file:
 
 
-![usetextsnippet1.png](images/usetextsnippet1.png "usetextsnippet1.png")
+![usetextsnippet1.png](images/usetextsnippet1.png)

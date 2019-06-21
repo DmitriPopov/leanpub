@@ -12,19 +12,19 @@ To connect your CHM help file to your application you need to know Context IDs o
 
 
 
-![chm.png](images/chm.png "chm.png")
+![chm.png](images/chm.png)
 
 CHM - topic
 
 
 
-![chm1.png](images/chm1.png "chm1.png")
+![chm1.png](images/chm1.png)
 
 CHM - index
 
 
 
-![chm2.png](images/chm2.png "chm2.png")
+![chm2.png](images/chm2.png)
 
 CHM - Search
 

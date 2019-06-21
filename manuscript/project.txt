@@ -3,7 +3,7 @@
 Project options define global project-wide settings.
 
 
-![projectoptions.png](images/projectoptions.png "projectoptions.png")
+![projectoptions.png](images/projectoptions.png)
 
 Project Options
 
@@ -33,7 +33,7 @@ Helpinator will put sequential topic number in front of topic title when generat
 Clicking on "PDF/Print settings" opens up "PDF settings" dialog. First page "General" allows you to define special fields of PDF document.
 
 
-![projectoptions1.png](images/projectoptions1.png "projectoptions1.png")
+![projectoptions1.png](images/projectoptions1.png)
 
 General Project Options
 
@@ -42,7 +42,7 @@ General Project Options
 The second acts both for PDF and for printed manuals. Here you can define margins, orientation and paper size.
 
 
-![projectoptions2.png](images/projectoptions2.png "projectoptions2.png")
+![projectoptions2.png](images/projectoptions2.png)
 
 PDF Settings
 
