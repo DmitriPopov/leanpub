@@ -2,73 +2,73 @@
 
 **Prepare images**
 
-![](imagelibtools.png "")
+![](images/imagelibtools.png)
 
 Prepare images for your guide. You can add existing images to the image library, capture some screenshots or create cloned images. Add callouts using image editor to emphasize meaning of the corresponding step.
 
 **Select guides node**
 
-![](guidesselected.png "")
+![](images/guidesselected.png)
 
 Select "Step-by-step Guides" node in the project tree view.
 
 **Click "Add Guide"**
 
-![](guidestools.png "")
+![](images/guidestools.png)
 
 Click "Add Guide". New guide dialog box appears.
 
 **Name your guide**
 
-![](guidename.png "")
+![](images/guidename.png)
 
 Give appropriate name to your guide. It is recommended to avoid use of spaces and special characters since this name will be used in "SBS" placeholder.
 
 **Create topic**
 
-![](createtopic.png "")
+![](images/createtopic.png)
 
 Check "Add topic" to automatically add topic with created guide. It will be added as the last topic in the project. You can use project tree drag and drop feature to put it in the correct place. 
 If you leave it unchecked then you need to manually insert "SBS" placeholder into desired topic.
 
 **Add images**
 
-![](addimages.png "")
+![](images/addimages.png)
 
 Click "Add images" button to add images for steps. You will be able to rearrange and rename steps later.
 
 **Select images to add to the guide**
 
-![](selectimage.png "")
+![](images/selectimage.png)
 
 Select images for steps. Images are taken from the project's image library. Check as many images as you wish.
 
 **List of steps**
 
-![](steps.png "")
+![](images/steps.png)
 
 The list of steps is at the left top corner of the guide editor. On top of the list there are tool buttons to edit it.
 
 **Give short names to each step**
 
-![](namesteps.png "")
+![](images/namesteps.png)
 
 Click "Rename" to give appropriate titles for steps. 
 
 **Put steps in the correct order**
 
-![](reordersteps.png "")
+![](images/reordersteps.png)
 
 Reorder steps using "Up" and "Down" buttons.
 
 **Add descriptive text for each step**
 
-![](addtext.png "")
+![](images/addtext.png)
 
 Write some descriptive text for each step. Be short, image should say for itself.
 
 **Set up guide options**
 
-![](guideoptions.png "")
+![](images/guideoptions.png)
 
 Guide options are at the left bottom row. Here you can select whether you want to add step numbers to step images, select color scheme to use for step numbers and where they should be located on the step image. Check "Auto size" if you want Helpinator to select size of the HTML box automatically, or set width and height manually.

@@ -2,48 +2,48 @@
 
 **Select "HTML-based templates"**
 
-![](createepub.png "")
+![](images/createepub.png)
 
 Select "HTML-based templates" node in the project tree view and check for "epubmobi-default.html" template. If it is in place, proceed to step 5.
 
 **Click "Add template"**
 
-![](createepub1.png "")
+![](images/createepub1.png)
 
 Click "+" to add epub-mobi template. IF you can see it in the list, you don't need to add it.
 
 **Select epub-mobi template**
 
-![](createepub2.png "")
+![](images/createepub2.png)
 
 Select "epub-mobi" template from the list and click "OK"
 
 **Set epub-mobi template**
 
-![](createepub3.png "")
+![](images/createepub3.png)
 
 Select root node in the project tree view and browse to "Templates" tab, then select "epub-mobi" template from drop-down lists for EPUB and MOBI formats.
 
 **Compile EPUB**
 
-![](createepub4.png "")
+![](images/createepub4.png)
 
 Now you can click "Compile EPUB" to create epub file. To compile MOBI you need to take some more steps.
 
 **Download KindleGen**
 
-![](createmobikindlegen.png "")
+![](images/createmobikindlegen.png)
 
 To compile MOBI you need to download and install KindleGen - free command-line tool from Amazon that allows to create MOBI ebooks.
 
 **Set path to KindleGen**
 
-![](enoptionskindlecompiler.png "")
+![](images/enoptionskindlecompiler.png)
 
 Select Main Menu -> Tools -> Options and enter path to KindleGen utility.
 
 **Compile MOBI**
 
-![](createepubkindle.png "")
+![](images/createepubkindle.png)
 
 Now you can click "Compile MOBI" to create mobi file.
