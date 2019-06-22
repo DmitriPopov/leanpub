@@ -3,7 +3,7 @@
 Check this page for purchase info:
 
 
-[http://www.helpinator.com/order.html](http://www.helpinator.com/order.html "http://www.helpinator.com/order.html")
+<http://www.helpinator.com/order.html>
 
 
 Note that licenses in packs are cheaper than individual licenses.

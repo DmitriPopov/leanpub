@@ -3,7 +3,7 @@
 WebHelp is based on JQueryUI so you can use it's styles to change style of WebHelp template. Take a look at "Additional Files" section of default template. There you can see jqueryui.zip file. This file contains all required style data. The following steps show how to create your own:
 
 
-1. Go to  [http://jqueryui.com/themeroller/](http://jqueryui.com/themeroller/ "http://jqueryui.com/themeroller/")
+1. Go to  <http://jqueryui.com/themeroller/>
 
 2. Select colors that you like, then download corresponging zip archive
 

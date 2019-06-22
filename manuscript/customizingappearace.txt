@@ -6,7 +6,7 @@ Helpinator allows you to adapt WebHelp to your website design. There's "WebHelp"
 Example can be seen in Helpinator's own WebHelp:
 
 
-[http://www.helpinator.com/webhelp](http://www.helpinator.com/webhelp "http://www.helpinator.com/webhelp")
+<http://www.helpinator.com/webhelp>
 
 
 ![webhelp3.png](images/webhelp3.png)

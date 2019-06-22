@@ -18,7 +18,7 @@ To compile CHM help files with locale different from your default system locale 
 The tool can be found here:
 
 
-[http://www.steelbytes.com/?mid=45](http://www.steelbytes.com/?mid=45 "http://www.steelbytes.com/?mid=45")
+<http://www.steelbytes.com/?mid=45>
 
 
 Download it and put into Helpinator installation folder.

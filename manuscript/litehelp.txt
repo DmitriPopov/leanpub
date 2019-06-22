@@ -20,4 +20,4 @@ LiteHelp format is basically a set of XML files, so there's no vendor lock-in an
 LiteHelpViewer is a viewer app for LiteHelp help system. It is a classic viewer with "Contents", "Index" and "Search" tabs. The executable is portable and self-contained, you can distribute it with your application if your LiteHelp help system was generated with Helpinator.
 
 
-You can read more about LiteHelp here:  [http://www.helpinator.com/litehelp.html](http://www.helpinator.com/litehelp.html "http://www.helpinator.com/litehelp.html")
+You can read more about LiteHelp here:  <http://www.helpinator.com/litehelp.html>

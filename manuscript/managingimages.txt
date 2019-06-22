@@ -61,4 +61,4 @@ New Blank Image
 
 
 
-"Cloned" images are explained in detail in this topic:  [\"Cloned Images\"](#t5890F9CEE0ED4E1EAB467299DE7A456D "\"Cloned Images\"")
+"Cloned" images are explained in detail in this topic:  [\"Cloned Images\"](#t5890F9CEE0ED4E1EAB467299DE7A456D)

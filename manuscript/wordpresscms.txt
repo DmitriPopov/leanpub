@@ -6,7 +6,7 @@ Wordpress is the most popular CMS in the world. If your website is based on Word
 Example Wordpress site with Helpinator's own documentation:
 
 
-[http://helpinatortest.wordpress.com](http://helpinatortest.wordpress.com "http://helpinatortest.wordpress.com")
+<http://helpinatortest.wordpress.com>
 
 
 To publish your help file to Wordpress you need to set up your account information and select publishing options.
@@ -53,8 +53,8 @@ Major Mind Software provides some useful WordPress plugins and themes for regist
 
 
 1. Helpinator QuickPublish plugin - this plugin extends WordPress API to allow to publish content faster and also fixes the problem of WordPress API that disrupts image republish feature blocking image rewrite.
-2. Helpinator WebHelp WordPress theme - documentation theme that resembles  [WebHelp 2](#tA31044183A93405FAD73451502C3A006 "WebHelp 2") in look and feel.
+2. Helpinator WebHelp WordPress theme - documentation theme that resembles  [WebHelp 2](#tA31044183A93405FAD73451502C3A006) in look and feel.
 3. Helpinator Modern Help WordPress theme - responsive theme for software documentation.
 
 
-You can download plugins and themes here:  [http://www.helpinator.com/download.html#wordpress](http://www.helpinator.com/download.html#wordpress "http://www.helpinator.com/download.html#wordpress")
+You can download plugins and themes here:  <http://www.helpinator.com/download.html#wordpress>

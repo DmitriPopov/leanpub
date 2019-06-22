@@ -1,6 +1,6 @@
 ## Shape Styles
 
-Shape styles allow you to define common settings for different shapes that you can add in the  [image editor](#t449D3E1738EB47318F5179EFB4010186 "image editor"). You can select line styles, colors for lines and background and font settings for text inside shapes.
+Shape styles allow you to define common settings for different shapes that you can add in the  [image editor](#t449D3E1738EB47318F5179EFB4010186). You can select line styles, colors for lines and background and font settings for text inside shapes.
 
 
 ![styles3.png](images/styles3.png)

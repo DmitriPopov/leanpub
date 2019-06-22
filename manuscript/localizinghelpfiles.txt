@@ -7,6 +7,6 @@ Helpinator localization capabilities stand on three whales:
 
 
 
-1. [Multiple languages](#t3E5559AC26AE4D44B78539A8B90DE344 "Multiple languages") in one project file
-2. [Language strings](#tE081B048D0C44084A890B0E9DFD950E0 "Language strings") that allow to translate templates
-3. [XML Import/Export](#tD976A904531B4F22AEFDF1619CC922C9 "XML Import/Export") that allows to communicate with translation services and software.
+1. [Multiple languages](#t3E5559AC26AE4D44B78539A8B90DE344) in one project file
+2. [Language strings](#tE081B048D0C44084A890B0E9DFD950E0) that allow to translate templates
+3. [XML Import/Export](#tD976A904531B4F22AEFDF1619CC922C9) that allows to communicate with translation services and software.

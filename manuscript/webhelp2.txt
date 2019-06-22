@@ -18,7 +18,7 @@ General structure of WebHelp2 matches that of Classic WebHelp, with "Table Of Co
 5. Folder structure is now more neat with "js" subfolder for JavaScript, all images in "images" folder and the main folder containing only html files.
 
 
-Helpinator's online documentation now uses new WebHelp 2:  [http://www.helpinator.com/help/about.html](http://www.helpinator.com/help/about.html "http://www.helpinator.com/help/about.html")
+Helpinator's online documentation now uses new WebHelp 2:  <http://www.helpinator.com/help/about.html>
 
 
 It looks like this:

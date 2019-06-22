@@ -1,6 +1,6 @@
 ## MajorMindHelp
 
-MajorMindHelp is our own help system for Windows applications. It is based on MajorMindHelpViewer - a viewer utility that is more than just a CHM-alike help system. You can read more about it in topic  [MajorMindHelpViewer](#t267836CF2026406C80E4FE41ECB548B5 "MajorMindHelpViewer").
+MajorMindHelp is our own help system for Windows applications. It is based on MajorMindHelpViewer - a viewer utility that is more than just a CHM-alike help system. You can read more about it in topic  [MajorMindHelpViewer](#t267836CF2026406C80E4FE41ECB548B5).
 
 
 Main features:

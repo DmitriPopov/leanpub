@@ -12,7 +12,7 @@ The GUI uses a tri-pane layout, with a toolbar and menu at the top, navigation p
 Official website:
 
 
-[http://javahelp.java.net/](http://javahelp.java.net/ "http://javahelp.java.net/")
+<http://javahelp.java.net/>
 
 
 Helpinator allows you to create all required HTML and project files and automatically calls compiler that creates help file in JAR format.
@@ -25,7 +25,7 @@ To compile JavaHelp:
 2. Download and install JavaHelp SDK
 
 
-[http://download.java.net/javadesktop/javahelp/javahelp2_0_05.zip](http://download.java.net/javadesktop/javahelp/javahelp2_0_05.zip "http://download.java.net/javadesktop/javahelp/javahelp2_0_05.zip")
+<http://download.java.net/javadesktop/javahelp/javahelp2_0_05.zip>
 
 
 3. Run Helpinator, select Main Menu->Tools->Options and enter both paths to JDK and JavaHelp "bin" folders.

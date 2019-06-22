@@ -6,13 +6,13 @@
 You can read entire article here:
 
 
-[http://en.wikipedia.org/wiki/Qt_framework](http://en.wikipedia.org/wiki/Qt_%28framework%29 "http://en.wikipedia.org/wiki/Qt_framework")
+[http://en.wikipedia.org/wiki/Qt_framework](http://en.wikipedia.org/wiki/Qt_%28framework%29)
 
 
 Qt framework has it's own help file format and framework called QtHelp aimed to provide native help files for applications written with Qt. You can read detailed description here:
 
 
-[http://doc.qt.digia.com/qt/qthelp-framework.html](http://doc.qt.digia.com/qt/qthelp-framework.html "http://doc.qt.digia.com/qt/qthelp-framework.html")
+<http://doc.qt.digia.com/qt/qthelp-framework.html>
 
 
 Helpinator allows you to create QtHelp files with one mouse click. However you will need QtSDK to do it. Helpinator will create HTML files and all required QtHelp project files, then it will call help file compiler to create target help files.

@@ -13,6 +13,6 @@ Helpinator is multilingual. You can have as many project languages as you wish. 
 Check the complete list of benefits on our website: 
 
 
-[http://www.helpinator.com/benefits.html](http://www.helpinator.com/benefits.html "http://www.helpinator.com/benefits.html")
+<http://www.helpinator.com/benefits.html>
 
 

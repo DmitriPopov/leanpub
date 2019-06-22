@@ -43,4 +43,4 @@ Clcick "Run" and wait for the process to finish. Now you can open destination fi
 
 
 
-Note that import creates topics tree according to the order of file names, you'll have to set the proper order of topics by yourself. Read  [this topic](#tFF2EFF4156AD4F80B1A38409F5AB4DA1 "this topic") to know how to do it quickly.
+Note that import creates topics tree according to the order of file names, you'll have to set the proper order of topics by yourself. Read  [this topic](#tFF2EFF4156AD4F80B1A38409F5AB4DA1) to know how to do it quickly.
